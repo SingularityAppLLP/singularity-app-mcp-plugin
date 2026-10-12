@@ -47,7 +47,7 @@ You can view and revoke Cursor access at any time in your [SingularityApp connec
 ## Privacy and terms
 
 - Privacy Policy: https://singularity-app.com/policy/
-- Terms of Service: https://singularity-app.com/terms/
+- Terms of Service: https://singularity-app.com/terms_of_service/
 
 ## Support
 
