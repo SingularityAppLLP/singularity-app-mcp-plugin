@@ -1,0 +1,15 @@
+{
+  "name": "singularityapp",
+  "displayName": "SingularityApp",
+  "version": "1.0.0",
+  "description": "Manage tasks, projects, habits, Kanban boards, and time tracking with SingularityApp.",
+  "homepage": "https://singularity-app.com/",
+  "repository": "https://github.com/SingularityAppLLP/singularity-app-mcp-plugin",
+  "author": {
+    "name": "SingularityApp LLP",
+    "email": "info@singularity-app.com"
+  },
+  "license": "MIT",
+  "keywords": ["productivity", "task-management", "project-management", "mcp"],
+  "logo": "assets/logo.png"
+}
