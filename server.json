@@ -1,0 +1,18 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "com.singularity-app/mcp",
+    "title": "SingularityApp",
+    "description": "Manage tasks, projects, habits, Kanban boards, and time tracking with SingularityApp.",
+    "version": "1.0.0",
+    "websiteUrl": "https://singularity-app.com/",
+    "repository": {
+        "url": "https://github.com/SingularityAppLLP/singularity-app-mcp-plugin",
+        "source": "github"
+    },
+    "remotes": [
+        {
+            "type": "streamable-http",
+            "url": "https://mcp.singularity-app.com/mcp"
+        }
+    ]
+}
